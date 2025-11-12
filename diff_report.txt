@@ -1,0 +1,9 @@
+
+Missing keys:
+  database: {'engine': 'postgres'}
+
+Extra keys:
+  database: {'password': 'secret'}
+
+Mismatched values:
+  database: {'port': {'file1': 3306, 'file2': 5432}}
